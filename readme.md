@@ -10,7 +10,7 @@
   <img align="left" alt="Piyush's GitHub" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.hackerrank.com/profpiyush1905">
-  <img align="left" alt="Piyush's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Piyush's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://www.hackerearth.com/@profpiyush1905">
   <img align="left" alt="Piyush's Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />

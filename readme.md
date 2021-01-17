@@ -20,11 +20,6 @@
 
 Hi! I am Piyush Awasthi, a **Computer Science and Engineering** sophomore at <a href ="http://kiit.ac.in/">KIIT University</a>
 
-![Piyush's Github stats](https://github-readme-stats.vercel.app/api?username=profpiyush&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profpiyush&theme=tokyonight)](https://github.com/Masters-Akt/github-readme-stats)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=profpiyush.profpiyush)
 <!--
 **profpiyush/profpiyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
